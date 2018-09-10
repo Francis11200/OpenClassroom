@@ -1,0 +1,1 @@
+Ceci est un fichier incorporé au projet d'Openclassrooms concernant l'activité sur Git et GitHub
